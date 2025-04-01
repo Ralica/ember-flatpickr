@@ -10,3 +10,9 @@ npm-debug.log*
 yarn-error.log
 .eslintcache
 /deploy-test-app/
+.idea/ember-flatpickr.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/modules.xml
+.idea/php.xml
+.idea/prettier.xml
+.idea/vcs.xml
